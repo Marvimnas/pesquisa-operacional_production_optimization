@@ -5,3 +5,7 @@ Uma grande empresa industrial chegou a conclusão de que deve fabricar três nov
 Os custos e a capacidade de produção, conforme a unidade fabril encontram-se nas tabelas a seguir.
 
 ![Data table](Data.png)
+
+# Solução
+Acesse o cógido em Python [aqui](Lachtermacher2008.ipynb)
+
